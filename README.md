@@ -6,7 +6,7 @@ Name: RIYA SUNIL KHARADE
 Company: CODTECH IT SOLUTIONS
 ID: CTO8DBI
 Domain: SQL
-Duration: May to June 2024
+Duration:12 DEC TO 12 JAN
 Mentor: NEELA SANTOSH KUMAR
 
 Overview of the Project
