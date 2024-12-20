@@ -42,6 +42,7 @@ Tools Used
 MySQL Workbench
 SQL (Structured Query Language)
  <div>
+  <h1>About My Experience</h1>
    I would like to share my experience and recommend avoiding internships or other programs that require payment. While they might provide tasks and even send an offer letter, these programs often lack proper support when you have queries related to the tasks or anything else.
 
 In my case, they didn’t respond to my questions, which made the experience frustrating. Additionally, they sent the offer letter through WhatsApp instead of email, which felt unprofessional and informal.
