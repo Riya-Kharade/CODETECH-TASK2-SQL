@@ -2,7 +2,7 @@
 
 This repository contains Task 6: Hotel Booking System for the SQL Internship at Codtech IT Solutions, developed using MySQL Workbench.
 
-Name: RIYA SUNIL KHARADE
+Name: RIYA SUNIL KHARADE<br>
 Company: CODTECH IT SOLUTIONS
 ID: CTO8DBI
 Domain: SQL
