@@ -41,13 +41,4 @@ Deleted inactive or canceled reservation records where needed.
 Tools Used
 MySQL Workbench
 SQL (Structured Query Language)
- <div>
-  <h1>About My Experience</h1>
-   I would like to share my experience and recommend avoiding internships or other programs that require payment. While they might provide tasks and even send an offer letter, these programs often lack proper support when you have queries related to the tasks or anything else.
-
-In my case, they didn’t respond to my questions, which made the experience frustrating. Additionally, they sent the offer letter through WhatsApp instead of email, which felt unprofessional and informal.
-
-Furthermore, they did not provide me with a completion certificate. When I asked about it, they didn’t respond properly. One person replied and told me to wait for a group update, but their group has not been updated at all.
-
-Based on this, I suggest being cautious and prioritizing internships that are transparent, supportive, and professional in their approach.
- </div>
+ 
